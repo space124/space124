@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @space124
 - 👀 I’m interested in full stack software engineering projects
-- 🌱 I’m currently learning python
+- 🌱 Like python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me - space124@gmail.com
 
